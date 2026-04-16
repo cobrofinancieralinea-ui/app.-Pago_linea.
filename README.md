@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-<title>NexiPlus</title>
+<title>NovaCredit</title>
 
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
 
@@ -49,6 +49,11 @@ body {
 .card-header {
     display: flex;
     justify-content: space-between;
+}
+
+/* TEXTO BLANCO SOLO DONDE PEDISTE */
+.white {
+    color: #ffffff !important;
 }
 
 .amount {
@@ -172,19 +177,19 @@ body {
 
     <!-- HEADER -->
     <div class="header">
-        <h2>NovaCredit</h2>
-        <div class="info">+54*****963</div>
-        <div class="info">Mariano Rodríguez</div>
+        <h2>CreditoSura</h2>
+        <div class="info">+54*****324</div>
+        <div class="info">Pablo Areas</div>
     </div>
 
     <!-- TARJETA PRINCIPAL -->
     <div class="card">
         <div class="card-header">
-            <span>Vence hoy</span>
-            <span>16/04/2026</span>
+            <span class="white">Vence hoy</span>
+            <span class="white">16/04/2026</span>
         </div>
 
-        <div class="amount">$55.350</div>
+        <div class="amount white">$55.350</div>
 
         <div style="font-size:13px; color:#a7f3d0;">
             Total a pagar de tu cuota actual.
@@ -207,10 +212,8 @@ body {
 
         <div class="small-card">
             <span>Saldo pendiente</span>
-            <span>$100.000.00</span>
+            <span>$55.350.00</span>
         </div>
-
-
     </div>
 
     <!-- DETALLES -->
@@ -221,8 +224,6 @@ body {
             <span>Estado</span>
             <span>en mora</span>
         </div>
-
-
     </div>
 
     <!-- INFO -->
@@ -256,10 +257,9 @@ function simularPago() {
 
     setTimeout(() => {
         contenido.innerHTML = `
-            <h3>ERROR DE CONEXION
-                APP EN MANTENIMIENTO </h3>
+            <h3>ERROR DE CONECCION APP EN MANTENIMINETO</h3>
             <p style="color:#f87171;">No se pudo completar la transacción.</p>
-            <p>comuniquese el area encargada para consolidar su pago</p>
+            <p>Comuniquese con el area encargada para efectuar su pago.</p>
             <div class="close-btn" onclick="cerrarModal()">Cerrar</div>
         `;
     }, 2500);
