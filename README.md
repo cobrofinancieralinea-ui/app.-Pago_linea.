@@ -179,7 +179,7 @@ body {
     <div class="header">
         <h2>CreditoSura</h2>
         <div class="info">+54*****324</div>
-        <div class="info">Pablo Areas</div>
+        <div class="info">Pablo Arias</div>
     </div>
 
     <!-- TARJETA PRINCIPAL -->
