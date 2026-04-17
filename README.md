@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+                                                                        <AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA<!DOCTYPE html>
 <html lang="es">
 <head>
 <meta charset="UTF-8">
@@ -178,8 +178,8 @@ body {
     <!-- HEADER -->
     <div class="header">
         <h2>FinaNova</h2>
-        <div class="info">+54*****193</div>
-        <div class="info">Lorena Itati Altamirano</div>
+        <div class="info">+54*****288</div>
+        <div class="info">81.000.00</div>
     </div>
 
     <!-- TARJETA PRINCIPAL -->
@@ -189,7 +189,7 @@ body {
             <span class="white">17/04/2026</span>
         </div>
 
-        <div class="amount white">$81.000</div>
+        <div class="amount white">$81.000.00</div>
 
         <div style="font-size:13px; color:#a7f3d0;">
             Total a pagar de tu cuota actual.
