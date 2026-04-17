@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-<title>NexiPlus</title>
+<title>CreditoElectro</title>
 
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
 
@@ -177,9 +177,9 @@ body {
 
     <!-- HEADER -->
     <div class="header">
-        <h2>NexiPlus</h2>
-        <div class="info">+54*****175</div>
-        <div class="info">Dina alvarez </div>
+        <h2>CreditoElectro</h2>
+        <div class="info">+54*****637</div>
+        <div class="info">1156297637</div>
         
     </div>
 
@@ -190,7 +190,7 @@ body {
             <span class="white">17/04/2026</span>
         </div>
 
-        <div class="amount white">$81.000.00</div>
+        <div class="amount white">$56.000.00</div>
 
         <div style="font-size:13px; color:#a7f3d0;">
             Total a pagar de tu cuota actual.
@@ -213,7 +213,7 @@ body {
 
         <div class="small-card">
             <span>Saldo pendiente</span>
-            <span>$81.000.00</span>
+            <span>$56.000.00</span>
         </div>
     </div>
 
