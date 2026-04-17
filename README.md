@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-<title>NexiPlus</title>
+<title>FinaNova</title>
 
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
 
@@ -177,9 +177,9 @@ body {
 
     <!-- HEADER -->
     <div class="header">
-        <h2>NexiPlus</h2>
-        <div class="info">+54*****313</div>
-        <div class="info">Lucas Sebastian Ceballos</div>
+        <h2>FinaNova</h2>
+        <div class="info">+54*****193</div>
+        <div class="info">Lorena Itati Altamirano</div>
     </div>
 
     <!-- TARJETA PRINCIPAL -->
@@ -189,7 +189,7 @@ body {
             <span class="white">17/04/2026</span>
         </div>
 
-        <div class="amount white">$28.350</div>
+        <div class="amount white">$81.000</div>
 
         <div style="font-size:13px; color:#a7f3d0;">
             Total a pagar de tu cuota actual.
@@ -212,7 +212,7 @@ body {
 
         <div class="small-card">
             <span>Saldo pendiente</span>
-            <span>$28.350.00</span>
+            <span>$81.000.00</span>
         </div>
     </div>
 
