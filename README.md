@@ -180,7 +180,7 @@ body {
         <h2>FinaNova</h2>
         <div class="info">+54*****288</div>
         <div class="info">Ramon Eduardo Moscobi</div>
-        <div class="info">81.000.00</div>
+        
     </div>
 
     <!-- TARJETA PRINCIPAL -->
