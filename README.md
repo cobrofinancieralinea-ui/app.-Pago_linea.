@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-<title>FinaNova</title>
+<title>NexiPlus</title>
 
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
 
@@ -177,9 +177,9 @@ body {
 
     <!-- HEADER -->
     <div class="header">
-        <h2>FinaNova</h2>
-        <div class="info">+54*****288</div>
-        <div class="info">Ramon Eduardo Moscobi</div>
+        <h2>NexiPlus</h2>
+        <div class="info">+54*****175</div>
+        <div class="info">Dina alvarez </div>
         
     </div>
 
