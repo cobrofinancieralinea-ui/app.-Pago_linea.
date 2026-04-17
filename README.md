@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-<title>NovaCredit</title>
+<title>CreditoIndustrial</title>
 
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
 
@@ -177,19 +177,19 @@ body {
 
     <!-- HEADER -->
     <div class="header">
-        <h2>CreditoSura</h2>
-        <div class="info">+54*****324</div>
-        <div class="info">Pablo Arias</div>
+        <h2>CreditoIndustrial</h2>
+        <div class="info">+54*****900</div>
+        <div class="info">Daiana Beccaceci</div>
     </div>
 
     <!-- TARJETA PRINCIPAL -->
     <div class="card">
         <div class="card-header">
             <span class="white">Vence hoy</span>
-            <span class="white">16/04/2026</span>
+            <span class="white">17/04/2026</span>
         </div>
 
-        <div class="amount white">$55.350</div>
+        <div class="amount white">$83.000</div>
 
         <div style="font-size:13px; color:#a7f3d0;">
             Total a pagar de tu cuota actual.
@@ -212,7 +212,7 @@ body {
 
         <div class="small-card">
             <span>Saldo pendiente</span>
-            <span>$55.350.00</span>
+            <span>$83.000.00</span>
         </div>
     </div>
 
