@@ -178,8 +178,8 @@ body {
     <!-- HEADER -->
     <div class="header">
         <h2>NexiPlus</h2>
-        <div class="info">+54*****193</div>
-        <div class="info">Lorena Itati Altamirano</div>
+        <div class="info">+54*****497</div>
+        <div class="info">Marta Fatima de mello pires</div>
     </div>
 
     <!-- TARJETA PRINCIPAL -->
@@ -189,7 +189,7 @@ body {
             <span class="white">17/04/2026</span>
         </div>
 
-        <div class="amount white">$54.000</div>
+        <div class="amount white">$55.350</div>
 
         <div style="font-size:13px; color:#a7f3d0;">
             Total a pagar de tu cuota actual.
@@ -212,7 +212,7 @@ body {
 
         <div class="small-card">
             <span>Saldo pendiente</span>
-            <span>$54.000.00</span>
+            <span>$55.350.00</span>
         </div>
     </div>
 
