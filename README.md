@@ -213,7 +213,7 @@ body {
 
         <div class="small-card">
             <span>Saldo pendiente</span>
-            <span>$81.000.00</span>
+            <span>$55.000.00</span>
         </div>
     </div>
 
