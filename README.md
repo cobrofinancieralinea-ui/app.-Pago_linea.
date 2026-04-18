@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-<title>CreditoSura</title>
+<title>NexiPlus</title>
 
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
 
@@ -178,8 +178,8 @@ body {
     <!-- HEADER -->
     <div class="header">
         <h2>CreditoSura</h2>
-        <div class="info">+54*****396</div>
-        <div class="info">Juan Carlos Rivero</div>
+        <div class="info">+54*****425</div>
+        <div class="info">Yoel Raul Ruiz Puma</div>
         
     </div>
 
@@ -190,7 +190,7 @@ body {
             <span class="white">18/04/2026</span>
         </div>
 
-        <div class="amount white">$55.000.00</div>
+        <div class="amount white">$248.400.00</div>
 
         <div style="font-size:13px; color:#a7f3d0;">
             Total a pagar de tu cuota actual.
@@ -213,7 +213,7 @@ body {
 
         <div class="small-card">
             <span>Saldo pendiente</span>
-            <span>$55.000.00</span>
+            <span>$248.400.00</span>
         </div>
     </div>
 
