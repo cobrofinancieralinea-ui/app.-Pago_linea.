@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-<title>FinaNova</title>
+<title>Credito Electro</title>
 
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
 
@@ -177,9 +177,9 @@ body {
 
     <!-- HEADER -->
     <div class="header">
-        <h2>FinaNova</h2>
-        <div class="info">+54*****789</div>
-        <div class="info">Sofia armas</div>
+        <h2>Credito Electro</h2>
+        <div class="info">+54*****675</div>
+        <div class="info">Nicolas Diaz Velez</div>
         
     </div>
 
@@ -190,7 +190,7 @@ body {
             <span class="white">18/04/2026</span>
         </div>
 
-        <div class="amount white">$108.000.00</div>
+        <div class="amount white">$83.000.00</div>
 
         <div style="font-size:13px; color:#a7f3d0;">
             Total a pagar de tu cuota actual.
@@ -213,7 +213,7 @@ body {
 
         <div class="small-card">
             <span>Saldo pendiente</span>
-            <span>$108.000.00</span>
+            <span>$83.000.00</span>
         </div>
     </div>
 
