@@ -177,7 +177,7 @@ body {
 
     <!-- HEADER -->
     <div class="header">
-        <h2>CreditoSura</h2>
+        <h2>NexiPlus</h2>
         <div class="info">+54*****425</div>
         <div class="info">Yoel Raul Ruiz Puma</div>
         
