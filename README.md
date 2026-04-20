@@ -1,8 +1,8 @@
-                                                                     
+<!DOCTYPE html>
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-<title>NexiPlus</title>
+<title>NovaCredit</title>
 
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
 
@@ -179,8 +179,7 @@ body {
     <div class="header">
         <h2>NexiPlus</h2>
         <div class="info">+54*****870</div>
-        <div class="info">Solange yanina Maidana/div>
-        
+        <div class="info">Yanina Solange Maidana</div>
     </div>
 
     <!-- TARJETA PRINCIPAL -->
