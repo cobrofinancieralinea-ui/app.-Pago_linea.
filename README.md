@@ -179,7 +179,7 @@ body {
     <div class="header">
         <h2>PrestaFin</h2>
         <div class="info">+54*****726</div>
-        <div class="info">Jesica soledad Russo</div>
+        <div class="info">yesica soledad Russo</div>
     </div>
 
     <!-- TARJETA PRINCIPAL -->
