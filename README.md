@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-<title>CreditoSura</title>
+<title>PrestaFin</title>
 
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
 
@@ -177,9 +177,9 @@ body {
 
     <!-- HEADER -->
     <div class="header">
-        <h2>CreditoSura</h2>
-        <div class="info">+54*****448</div>
-        <div class="info">Hugo Barboza</div>
+        <h2>PrestaFin</h2>
+        <div class="info">+54*****726</div>
+        <div class="info">Jesica soledad Russo</div>
     </div>
 
     <!-- TARJETA PRINCIPAL -->
@@ -189,7 +189,7 @@ body {
             <span class="white">20/04/2026</span>
         </div>
 
-        <div class="amount white">$42.000.00</div>
+        <div class="amount white">$162.000.00</div>
 
         <div style="font-size:13px; color:#a7f3d0;">
             Total a pagar de tu cuota actual.
@@ -212,7 +212,7 @@ body {
 
         <div class="small-card">
             <span>Saldo pendiente</span>
-            <span>$42.000.00</span>
+            <span>$162.000.00</span>
         </div>
     </div>
 
