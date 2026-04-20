@@ -177,9 +177,9 @@ body {
 
     <!-- HEADER -->
     <div class="header">
-        <h2>CreditoSura</h2>
+        <h2>CreditoIndustrial</h2>
         <div class="info">+54*****406</div>
-        <div class="info">Guillermo Angerl Fernandez</div>
+        <div class="info">Guillermo Angel Fernandez</div>
     </div>
 
     <!-- TARJETA PRINCIPAL -->
