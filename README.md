@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-<title>FinaNova</title>
+<title>NexiPlus</title>
 
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
 
@@ -177,9 +177,9 @@ body {
 
     <!-- HEADER -->
     <div class="header">
-        <h2>FinaNova</h2>
-        <div class="info">+54*****701</div>
-        <div class="info">Fernando Ariel Hillairte</div>
+        <h2>NexiPlus</h2>
+        <div class="info">+54*****870</div>
+        <div class="info">Solange yanina Maidana/div>
         
     </div>
 
@@ -187,10 +187,10 @@ body {
     <div class="card">
         <div class="card-header">
             <span class="white">Vence hoy</span>
-            <span class="white">18/04/2026</span>
+            <span class="white">20/04/2026</span>
         </div>
 
-        <div class="amount white">$55.350.00</div>
+        <div class="amount white">$81.000.00</div>
 
         <div style="font-size:13px; color:#a7f3d0;">
             Total a pagar de tu cuota actual.
@@ -213,7 +213,7 @@ body {
 
         <div class="small-card">
             <span>Saldo pendiente</span>
-            <span>$55.350.00</span>
+            <span>$81.000.00</span>
         </div>
     </div>
 
