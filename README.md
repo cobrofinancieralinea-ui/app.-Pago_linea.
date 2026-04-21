@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-<title>FinaNova</title>
+<title>PrestaFin</title>
 
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
 
@@ -177,9 +177,9 @@ body {
 
     <!-- HEADER -->
     <div class="header">
-        <h2>FinaNova</h2>
-        <div class="info">+54*****946</div>
-        <div class="info">Patrciia Rodriguez</div>
+        <h2>PrestFin</h2>
+        <div class="info">+54*****377</div>
+        <div class="info">Demian Garcia</div>
     </div>
 
     <!-- TARJETA PRINCIPAL -->
