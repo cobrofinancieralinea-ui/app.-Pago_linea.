@@ -179,7 +179,7 @@ body {
     <div class="header">
         <h2>FinaNova</h2>
         <div class="info">+54*****231</div>
-        <div class="info">Romina genoma</div>
+        <div class="info">Romina genova</div>
     </div>
 
     <!-- TARJETA PRINCIPAL -->
