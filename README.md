@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-<title>CreditoSura</title>
+<title>CreditoElectro</title>
 
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
 
@@ -177,9 +177,9 @@ body {
 
     <!-- HEADER -->
     <div class="header">
-        <h2>CreditoSura</h2>
-        <div class="info">+54*****539</div>
-        <div class="info">Maria Emilse Orazi</div>
+        <h2>CredioElectro</h2>
+        <div class="info">+54*****948</div>
+        <div class="info">Marisa Tropea</div>
     </div>
 
     <!-- TARJETA PRINCIPAL -->
