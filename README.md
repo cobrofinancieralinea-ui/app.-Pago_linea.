@@ -177,7 +177,7 @@ body {
 
     <!-- HEADER -->
     <div class="header">
-        <h2>PrestFin</h2>
+        <h2>PrestaFin</h2>
         <div class="info">+54*****377</div>
         <div class="info">Demian Garcia</div>
     </div>
