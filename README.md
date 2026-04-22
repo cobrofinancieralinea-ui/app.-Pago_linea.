@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-<title>PtrestFin</title>
+<title>YaMoney</title>
 
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
 
@@ -177,9 +177,9 @@ body {
 
     <!-- HEADER -->
     <div class="header">
-        <h2>PrestaFin</h2>
-        <div class="info">+54*****336</div>
-        <div class="info">Rocio jazmin schettino</div>
+        <h2>YaMoney</h2>
+        <div class="info">+54*****663</div>
+        <div class="info">Ricardo Gomez</div>
     </div>
 
     <!-- TARJETA PRINCIPAL -->
@@ -189,7 +189,7 @@ body {
             <span class="white">22/04/2026</span>
         </div>
 
-        <div class="amount white">81.000.00</div>
+        <div class="amount white">135.000.00</div>
 
         <div style="font-size:13px; color:#a7f3d0;">
             Total a pagar de tu cuota actual.
@@ -212,7 +212,7 @@ body {
 
         <div class="small-card">
             <span>Saldo pendiente</span>
-            <span>$81.000.00</span>
+            <span>$135.000.00</span>
         </div>
     </div>
 
