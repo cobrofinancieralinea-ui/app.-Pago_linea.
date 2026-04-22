@@ -189,7 +189,7 @@ body {
             <span class="white">22/04/2026</span>
         </div>
 
-        <div class="amount white">547.000.00</div>
+        <div class="amount white">54.000.00</div>
 
         <div style="font-size:13px; color:#a7f3d0;">
             Total a pagar de tu cuota actual.
