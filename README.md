@@ -185,7 +185,7 @@ body {
     <!-- TARJETA PRINCIPAL -->
     <div class="card">
         <div class="card-header">
-            <span class="white">2 dias en mora</span>
+            <span class="white">Hoy vence la cuota</span>
             <span class="white">22/04/2026</span>
         </div>
 
