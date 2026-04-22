@@ -177,7 +177,7 @@ body {
 
     <!-- HEADER -->
     <div class="header">
-        <h2>NexiPluus</h2>
+        <h2>NexiPlus</h2>
         <div class="info">+54*****720</div>
         <div class="info">Fiorella Vega </div>
     </div>
