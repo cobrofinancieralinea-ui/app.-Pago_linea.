@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-<title>NexiPlus</title>
+<title>PtrestFin</title>
 
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
 
@@ -177,9 +177,9 @@ body {
 
     <!-- HEADER -->
     <div class="header">
-        <h2>NexiPlus</h2>
-        <div class="info">+54*****691</div>
-        <div class="info">Andres Bogarin</div>
+        <h2>PrestaFin</h2>
+        <div class="info">+54*****336</div>
+        <div class="info">Rocio jazmin schettino</div>
     </div>
 
     <!-- TARJETA PRINCIPAL -->
