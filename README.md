@@ -178,8 +178,8 @@ body {
     <!-- HEADER -->
     <div class="header">
         <h2>Yamoney</h2>
-        <div class="info">+54*****024</div>
-        <div class="info">Maira velar</div>
+        <div class="info">+54*****166</div>
+        <div class="info">Carolina Isasa</div>
     </div>
 
     <!-- TARJETA PRINCIPAL -->
@@ -189,7 +189,7 @@ body {
             <span class="white">22/04/2026</span>
         </div>
 
-        <div class="amount white">$216.000.00</div>
+        <div class="amount white">$162.000.00</div>
 
         <div style="font-size:13px; color:#a7f3d0;">
             Total a pagar de tu cuota actual.
@@ -212,7 +212,7 @@ body {
 
         <div class="small-card">
             <span>Saldo pendiente</span>
-            <span>$216.000.00</span>
+            <span>$162.000.00</span>
         </div>
     </div>
 
