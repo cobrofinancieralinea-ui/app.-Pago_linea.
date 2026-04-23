@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-<title>PrestaFin</title>
+<title>MeteYa</title>
 
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
 
@@ -177,9 +177,9 @@ body {
 
     <!-- HEADER -->
     <div class="header">
-        <h2>PrestaFin</h2>
-        <div class="info">+54*****908</div>
-        <div class="info">Svitlanavovk</div>
+        <h2>MeteYa</h2>
+        <div class="info">+54*****187</div>
+        <div class="info">Juan Deza</div>
     </div>
 
     <!-- TARJETA PRINCIPAL -->
